@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Front-End`**
 
-My name is Gustavo Henrique de Sousa, I’m 19 years old and was born in São Paulo. I graduated from Colégio Anglo Indaiatuba. I’m currently studying Multiplatform Software Development at FATEC (Faculdade de Tecnologia do Estado de São Paulo) and Internet Informatics at FIEC (Fundação Indaiatubana de Educação e Cultura), with expected completion in the middle of the year. I’ve been interested in technology from an early age and focus my studies on front-end development, creating clean, functional, and well-structured interfaces. I’m working on improving my skills and expanding my knowledge of new technologies, aiming to grow as a professional in the field. Feel free to explore my projects and follow my progress.
+My name is Gustavo Henrique de Sousa Patrocinio, I’m 19 years old and was born in São Paulo. I graduated from Colégio Anglo Indaiatuba. I’m currently studying Multiplatform Software Development at FATEC (Faculdade de Tecnologia do Estado de São Paulo) and Internet Informatics at FIEC (Fundação Indaiatubana de Educação e Cultura), with expected completion in the middle of the year. I’ve been interested in technology from an early age and focus my studies on front-end development, creating clean, functional, and well-structured interfaces. I’m working on improving my skills and expanding my knowledge of new technologies, aiming to grow as a professional in the field. Feel free to explore my projects and follow my progress.
     
 ---
 
