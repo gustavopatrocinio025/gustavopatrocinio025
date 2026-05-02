@@ -6,7 +6,7 @@ My name is Gustavo Henrique de Sousa, I’m 19 years old and was born in São Pa
     
 ---
 
-### 🤖 Linguagens e Tecnologias
+### 📚💻 Linguagens e Tecnologias
 
 <img 
     align="left" 
